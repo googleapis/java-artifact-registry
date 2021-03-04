@@ -11,15 +11,15 @@
       "git": {
         "name": "googleapis-gen",
         "remote": "https://github.com/googleapis/googleapis-gen.git",
-        "sha": "b313a3cd40d840118f06bbf38e7c1ed81a74a0b2",
-        "internalRef": "356556588"
+        "sha": "1ad043d44370c3639640b1f1f549296c005448f5",
+        "internalRef": "360805639"
       }
     },
     {
       "git": {
         "name": "synthtool",
         "remote": "https://github.com/googleapis/synthtool.git",
-        "sha": "d0bdade9a962042dc0f770cf631086f3db59b5b0"
+        "sha": "4679e7e415221f03ff2a71e3ffad75b9ec41d87e"
       }
     }
   ],
@@ -92,6 +92,7 @@
     "codecov.yaml",
     "google-cloud-artifact-registry/src/main/java/com/google/devtools/artifactregistry/v1beta2/ArtifactRegistryClient.java",
     "google-cloud-artifact-registry/src/main/java/com/google/devtools/artifactregistry/v1beta2/ArtifactRegistrySettings.java",
+    "google-cloud-artifact-registry/src/main/java/com/google/devtools/artifactregistry/v1beta2/gapic_metadata.json",
     "google-cloud-artifact-registry/src/main/java/com/google/devtools/artifactregistry/v1beta2/package-info.java",
     "google-cloud-artifact-registry/src/main/java/com/google/devtools/artifactregistry/v1beta2/stub/ArtifactRegistryStub.java",
     "google-cloud-artifact-registry/src/main/java/com/google/devtools/artifactregistry/v1beta2/stub/ArtifactRegistryStubSettings.java",
