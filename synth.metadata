@@ -11,8 +11,8 @@
       "git": {
         "name": "googleapis-gen",
         "remote": "https://github.com/googleapis/googleapis-gen.git",
-        "sha": "452439e51b89a97d6f056a4300b0e32753a0fadd",
-        "internalRef": "357800868"
+        "sha": "9d14cd16d94886f7f10a243e1b5a6876946f32bb",
+        "internalRef": "358516065"
       }
     },
     {
@@ -92,6 +92,7 @@
     "codecov.yaml",
     "google-cloud-artifact-registry/src/main/java/com/google/devtools/artifactregistry/v1beta2/ArtifactRegistryClient.java",
     "google-cloud-artifact-registry/src/main/java/com/google/devtools/artifactregistry/v1beta2/ArtifactRegistrySettings.java",
+    "google-cloud-artifact-registry/src/main/java/com/google/devtools/artifactregistry/v1beta2/gapic_metadata.json",
     "google-cloud-artifact-registry/src/main/java/com/google/devtools/artifactregistry/v1beta2/package-info.java",
     "google-cloud-artifact-registry/src/main/java/com/google/devtools/artifactregistry/v1beta2/stub/ArtifactRegistryStub.java",
     "google-cloud-artifact-registry/src/main/java/com/google/devtools/artifactregistry/v1beta2/stub/ArtifactRegistryStubSettings.java",
