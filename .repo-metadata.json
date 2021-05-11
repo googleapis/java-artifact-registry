@@ -11,6 +11,7 @@
     "repo_short": "java-artifact-registry",
     "distribution_name": "com.google.cloud:google-cloud-artifact-registry",
     "api_id": "artifactregistry.googleapis.com",
+    "codeowner_team": "@googleapis/cicd",
     "requires_billing": true,
     "library_type": "GAPIC_AUTO"
 }
