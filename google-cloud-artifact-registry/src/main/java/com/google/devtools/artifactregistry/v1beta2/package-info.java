@@ -27,11 +27,11 @@
  * <p>The resources managed by this API are:
  *
  * <ul>
- *   <li>Repositories, which group packages and their data.
- *   <li>Packages, which group versions and their tags.
- *   <li>Versions, which are specific forms of a package.
- *   <li>Tags, which represent alternative names for versions.
- *   <li>Files, which contain content and are optionally associated with a Package or Version.
+ *   <li> Repositories, which group packages and their data.
+ *   <li> Packages, which group versions and their tags.
+ *   <li> Versions, which are specific forms of a package.
+ *   <li> Tags, which represent alternative names for versions.
+ *   <li> Files, which contain content and are optionally associated with a Package or Version.
  * </ul>
  *
  * <p>Sample for ArtifactRegistryClient:

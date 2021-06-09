@@ -55,11 +55,11 @@ import javax.annotation.Generated;
  * <p>The resources managed by this API are:
  *
  * <ul>
- *   <li>Repositories, which group packages and their data.
- *   <li>Packages, which group versions and their tags.
- *   <li>Versions, which are specific forms of a package.
- *   <li>Tags, which represent alternative names for versions.
- *   <li>Files, which contain content and are optionally associated with a Package or Version.
+ *   <li> Repositories, which group packages and their data.
+ *   <li> Packages, which group versions and their tags.
+ *   <li> Versions, which are specific forms of a package.
+ *   <li> Tags, which represent alternative names for versions.
+ *   <li> Files, which contain content and are optionally associated with a Package or Version.
  * </ul>
  *
  * <p>This class provides the ability to make remote calls to the backing service through method
@@ -80,13 +80,13 @@ import javax.annotation.Generated;
  * methods:
  *
  * <ol>
- *   <li>A "flattened" method. With this type of method, the fields of the request type have been
+ *   <li> A "flattened" method. With this type of method, the fields of the request type have been
  *       converted into function parameters. It may be the case that not all fields are available as
  *       parameters, and not every API method will have a flattened method entry point.
- *   <li>A "request object" method. This type of method only takes one parameter, a request object,
+ *   <li> A "request object" method. This type of method only takes one parameter, a request object,
  *       which must be constructed before the call. Not every API method will have a request object
  *       method.
- *   <li>A "callable" method. This type of method takes no parameters and returns an immutable API
+ *   <li> A "callable" method. This type of method takes no parameters and returns an immutable API
  *       callable object, which can be used to initiate calls to the service.
  * </ol>
  *
@@ -1905,10 +1905,7 @@ public class ArtifactRegistryClient implements BackgroundResource {
 
   public static class ListRepositoriesPagedResponse
       extends AbstractPagedListResponse<
-          ListRepositoriesRequest,
-          ListRepositoriesResponse,
-          Repository,
-          ListRepositoriesPage,
+          ListRepositoriesRequest, ListRepositoriesResponse, Repository, ListRepositoriesPage,
           ListRepositoriesFixedSizeCollection> {
 
     public static ApiFuture<ListRepositoriesPagedResponse> createAsync(
@@ -1963,10 +1960,7 @@ public class ArtifactRegistryClient implements BackgroundResource {
 
   public static class ListRepositoriesFixedSizeCollection
       extends AbstractFixedSizeCollection<
-          ListRepositoriesRequest,
-          ListRepositoriesResponse,
-          Repository,
-          ListRepositoriesPage,
+          ListRepositoriesRequest, ListRepositoriesResponse, Repository, ListRepositoriesPage,
           ListRepositoriesFixedSizeCollection> {
 
     private ListRepositoriesFixedSizeCollection(
@@ -1987,10 +1981,7 @@ public class ArtifactRegistryClient implements BackgroundResource {
 
   public static class ListPackagesPagedResponse
       extends AbstractPagedListResponse<
-          ListPackagesRequest,
-          ListPackagesResponse,
-          Package,
-          ListPackagesPage,
+          ListPackagesRequest, ListPackagesResponse, Package, ListPackagesPage,
           ListPackagesFixedSizeCollection> {
 
     public static ApiFuture<ListPackagesPagedResponse> createAsync(
@@ -2044,10 +2035,7 @@ public class ArtifactRegistryClient implements BackgroundResource {
 
   public static class ListPackagesFixedSizeCollection
       extends AbstractFixedSizeCollection<
-          ListPackagesRequest,
-          ListPackagesResponse,
-          Package,
-          ListPackagesPage,
+          ListPackagesRequest, ListPackagesResponse, Package, ListPackagesPage,
           ListPackagesFixedSizeCollection> {
 
     private ListPackagesFixedSizeCollection(List<ListPackagesPage> pages, int collectionSize) {
@@ -2067,10 +2055,7 @@ public class ArtifactRegistryClient implements BackgroundResource {
 
   public static class ListVersionsPagedResponse
       extends AbstractPagedListResponse<
-          ListVersionsRequest,
-          ListVersionsResponse,
-          Version,
-          ListVersionsPage,
+          ListVersionsRequest, ListVersionsResponse, Version, ListVersionsPage,
           ListVersionsFixedSizeCollection> {
 
     public static ApiFuture<ListVersionsPagedResponse> createAsync(
@@ -2124,10 +2109,7 @@ public class ArtifactRegistryClient implements BackgroundResource {
 
   public static class ListVersionsFixedSizeCollection
       extends AbstractFixedSizeCollection<
-          ListVersionsRequest,
-          ListVersionsResponse,
-          Version,
-          ListVersionsPage,
+          ListVersionsRequest, ListVersionsResponse, Version, ListVersionsPage,
           ListVersionsFixedSizeCollection> {
 
     private ListVersionsFixedSizeCollection(List<ListVersionsPage> pages, int collectionSize) {
