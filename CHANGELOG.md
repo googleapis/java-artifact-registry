@@ -1,5 +1,17 @@
 # Changelog
 
+### [0.2.2](https://www.github.com/googleapis/java-artifact-registry/compare/v0.2.1...v0.2.2) (2021-07-09)
+
+
+### Bug Fixes
+
+* Add `shopt -s nullglob` to dependencies script ([#1130](https://www.github.com/googleapis/java-artifact-registry/issues/1130)) ([#74](https://www.github.com/googleapis/java-artifact-registry/issues/74)) ([c6e41b5](https://www.github.com/googleapis/java-artifact-registry/commit/c6e41b5b9e12b83c3bd7637c52c5a0252d1d736e))
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v1.4.0 ([#76](https://www.github.com/googleapis/java-artifact-registry/issues/76)) ([11482a4](https://www.github.com/googleapis/java-artifact-registry/commit/11482a4938d5a061b493babd250c4298cf4f65f6))
+
 ### [0.2.1](https://www.github.com/googleapis/java-artifact-registry/compare/v0.2.0...v0.2.1) (2021-06-09)
 
 
