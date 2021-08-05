@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://www.github.com/googleapis/java-artifact-registry/compare/v0.2.1...v0.3.0) (2021-08-05)
+
+
+### Features
+
+* configure initial sp version ([#103](https://www.github.com/googleapis/java-artifact-registry/issues/103)) ([a2c9985](https://www.github.com/googleapis/java-artifact-registry/commit/a2c998559aa9bb56c14130a465475124639f8be0))
+
 ### [0.2.1](https://www.github.com/googleapis/java-artifact-registry/compare/v0.2.0...v0.2.1) (2021-06-09)
 
 
