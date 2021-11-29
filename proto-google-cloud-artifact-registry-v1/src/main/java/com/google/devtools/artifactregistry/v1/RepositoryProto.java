@@ -58,8 +58,7 @@ public final class RepositoryProto {
     java.lang.String[] descriptorData = {
       "\n"
           + "4google/devtools/artifactregistry/v1/repository.proto\022#google.devtools.artifact"
-          + "registry.v1\032\037google/api/field_behavior.p"
-          + "roto\032\031google/api/resource.proto\032\037google/protobuf/timestamp.proto\032\034google/api/annotations.proto\"\277\004\n\n"
+          + "registry.v1\032\037google/api/field_behavior.proto\032\031google/api/resource.proto\032\037google/protobuf/timestamp.proto\032\034google/api/annotations.proto\"\277\004\n\n"
           + "Repository\022\014\n"
           + "\004name\030\001 \001(\t\022F\n"
           + "\006format\030\002"

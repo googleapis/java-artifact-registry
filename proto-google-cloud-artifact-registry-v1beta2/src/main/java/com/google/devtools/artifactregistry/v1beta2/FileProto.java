@@ -57,8 +57,7 @@ public final class FileProto {
   static {
     java.lang.String[] descriptorData = {
       "\n"
-          + "3google/devtools/artifactregistry/v1beta2/file.proto\022(google.devtools.artifactr"
-          + "egistry.v1beta2\032\031google/api/resource.proto\032\037google/protobuf/timestamp.proto\032\034google/api/annotations.proto\"\217\001\n"
+          + "3google/devtools/artifactregistry/v1beta2/file.proto\022(google.devtools.artifactregistry.v1beta2\032\031google/api/resource.proto\032\037google/protobuf/timestamp.proto\032\034google/api/annotations.proto\"\217\001\n"
           + "\004Hash\022E\n"
           + "\004type\030\001"
           + " \001(\01627.google.devtools.artifactregistry.v1beta2.Hash.HashType\022\r\n"
