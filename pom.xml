@@ -81,7 +81,7 @@
       <dependency>
         <groupId>com.google.api.grpc</groupId>
         <artifactId>grpc-google-cloud-artifact-registry-v1beta2</artifactId>
-        <version>0.8.10-SNAPSHOT</version><!-- {x-version-update:grpc-google-cloud-artifact-registry-v1beta2:current} -->
+        <version>0.9.0</version><!-- {x-version-update:grpc-google-cloud-artifact-registry-v1beta2:current} -->
       </dependency>
 
       <dependency>
